@@ -9,7 +9,7 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left"/>][linkedin]
 
 <br />
-<br />
+<br /> 
 
 ### Technical Skills ✨
 
